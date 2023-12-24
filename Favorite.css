@@ -1,0 +1,36 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+ }
+ body {
+   font-family: "Lato", sans-serif;
+   /* background: #234545; */
+ }
+ 
+ .container {
+   max-width: 1440px;
+   width: 100%;
+   margin: 0 auto;
+   padding: 0 20px;
+ }
+ a {
+   text-decoration: none;
+ }
+ /* .header-content {
+   display: flex;
+   justify-content: space-around;
+   background: #d9d9d9;
+   padding: 15px 30px;
+ } */
+/*  
+ .header-content a {
+   color: #000;
+ } */
+
+
+/* .hero {
+   width: -900px;
+   height: -400px;
+   background-color: aqua;
+} */
